@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/" debug="false">
+
+    <appender name="console" class="org.apache.log4j.ConsoleAppender">
+        <layout class="org.apache.log4j.PatternLayout">
+            <!--
+                        <param name="ConversionPattern" value="%-5p|%d|%F:(%L)|%M()|%m%n" />
+            <param name="ConversionPattern" value="[%d{HH:mm:ss}] %5p (%F:%L) - %m%n" />
+                        -->
+            <param name="ConversionPattern" value="[%d{MM-dd HH:mm}] %5p (%F:%L) %m%n" />
+        </layout>
+        <filter class="org.apache.log4j.varia.StringMatchFilter">
+                <param name="StringToMatch" value="Connection"/>
+                <param name="AcceptOnMatch" value="false"/>
+        </filter>
+        <filter class="org.apache.log4j.varia.StringMatchFilter">
+                <param name="StringToMatch" value="Preparing Statement"/>
+                <param name="AcceptOnMatch" value="false"/>
+        </filter>
+        <!--
+        <filter class="org.apache.log4j.varia.StringMatchFilter">
+                <param name="StringToMatch" value="Result"/>
+                <param name="AcceptOnMatch" value="false"/>
+        </filter>
+        <filter class="org.apache.log4j.varia.StringMatchFilter">
+                <param name="StringToMatch" value="ResultSet"/>
+                <param name="AcceptOnMatch" value="false"/>
+        </filter>
+        <filter class="org.apache.log4j.varia.StringMatchFilter">
+                <param name="StringToMatch" value="Header"/>
+                <param name="AcceptOnMatch" value="false"/>
+        </filter>
+        -->
+    </appender>
+
+    <!-- 일마다 백업하며 로그 -->
+    <appender name="rolling" class="org.apache.log4j.DailyRollingFileAppender">
+           <param name="file" value="./log/log" />
+           <param name="DatePattern" value="'.'yyyy-MM-dd'.txt'" />
+           <param name="encoding" value="UTF-8" />
+           <layout class="org.apache.log4j.PatternLayout">
+                   <param name="ConversionPattern" value="%t> [%d{yyyy-MM-dd HH:mm:ss}] [%c{1}] [%L] [%p] %m %n" />
+           </layout>
+    </appender>
+
+    <!-- 특정 크기마다 백업하며 로그
+    <appender name="rolling" class="org.apache.log4j.RollingFileAppender">
+           <param name="file" value="./log/log.txt" />
+           <param name="Append" value="true" />
+           <param name="MaxFileSize" value="1kb" />
+           <param name="MaxBackupIndex" value="1" />
+           <layout class="org.apache.log4j.PatternLayout">
+                   <param name="ConversionPattern" value="%t> [%d{yyyy-MM-dd HH:mm:ss}] [%c{1}] [%L] [%p] %m %n" />
+           </layout>
+    </appender>
+     -->
+
+    <logger name="com.ibatis" additivity="false">
+                <level value="DEBUG" />
+                <appender-ref ref="console" />
+        </logger>
+
+        <logger name="java.sql" additivity="false">
+                <level value="DEBUG" />
+                <appender-ref ref="console" />
+                <appender-ref ref="rolling" />
+        </logger>
+
+        <root>
+                <level value="DEBUG" />
+                <appender-ref ref="console" />
+                <appender-ref ref="rolling" />
+        </root>
+
+</log4j:configuration>

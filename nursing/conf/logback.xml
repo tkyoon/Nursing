@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true" scanPeriod="30 seconds">
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>[%d{MM-dd HH:mm}] %5p (%F:%L\) %m%n%xEx{full}</pattern>
+		</encoder>
+		<filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+			<level>DEBUG</level>
+		</filter>
+	</appender>
+
+	<root level="debug">
+		<appender-ref ref="STDOUT" />
+	</root>
+
+	<!--
+	<logger name="org.apache.commons.validator" level="INFO"/>
+	<logger name="org.apache.commons.digester" level="INFO"/>
+	<logger name="org.springframework" level="INFO"/>
+	-->
+
+	<logger name="kr.co.jcone" level="DEBUG"/>
+</configuration>

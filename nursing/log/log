@@ -1,0 +1,1367 @@
+main> [2014-01-22 22:14:13] [App] [16] [DEBUG] log test 
+main> [2014-01-22 22:14:27] [App] [16] [DEBUG] log test 
+main> [2014-01-22 22:14:35] [App] [16] [DEBUG] log test 
+main> [2014-01-22 22:14:36] [App] [21] [DEBUG]  
+main> [2014-01-22 22:19:55] [App] [16] [DEBUG] log test 
+main> [2014-01-22 22:21:03] [App] [16] [DEBUG] log test 
+main> [2014-01-22 22:21:03] [ExcelImporter] [141] [DEBUG] last row no=29 
+main> [2014-01-22 22:21:37] [App] [16] [DEBUG] log test 
+main> [2014-01-22 22:21:37] [ExcelImporter] [141] [DEBUG] last row no=23 
+main> [2014-01-22 22:24:18] [App] [16] [DEBUG] log test 
+main> [2014-01-22 22:24:18] [ExcelImporter] [147] [DEBUG] last row no=23 
+main> [2014-01-22 22:24:18] [ExcelImporter] [148] [DEBUG] last col no=39 
+main> [2014-01-22 22:28:37] [App] [16] [DEBUG] log test 
+main> [2014-01-22 22:28:38] [ExcelImporter] [147] [DEBUG] last row no=23 
+main> [2014-01-22 22:28:38] [ExcelImporter] [148] [DEBUG] last col no=39 
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value = 2014년 2월 병동팀(5병동) 근무표(명령서) - 2 
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value = 팀장 
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value = 간호부장 
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value = 병원장 
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:28:38] [ExcelImporter] [157] [DEBUG] cell value =  
+main> [2014-01-22 22:34:45] [ExcelImporter] [149] [DEBUG] last row no=23 
+main> [2014-01-22 22:34:45] [ExcelImporter] [150] [DEBUG] last col no=39 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value =  
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value =  
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 부서명 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value =  
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:34:45] [ExcelImporter] [162] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:41:41] [ExcelImporter] [154] [DEBUG] last row no=23 
+main> [2014-01-22 22:41:41] [ExcelImporter] [155] [DEBUG] last col no=39 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value =  
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value =  
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 부서명 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value =  
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:41:41] [ExcelImporter] [168] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:41:41] [ExcelImporter] [183] [DEBUG] @@ nurseList = [com.tk.nursing.vo.NurseVO@446d0c6a, com.tk.nursing.vo.NurseVO@534a263e, com.tk.nursing.vo.NurseVO@2914db2a, com.tk.nursing.vo.NurseVO@1840b778, com.tk.nursing.vo.NurseVO@40cd33b8, com.tk.nursing.vo.NurseVO@5ffe9644, com.tk.nursing.vo.NurseVO@433b7b98, com.tk.nursing.vo.NurseVO@762f5aa3, com.tk.nursing.vo.NurseVO@1ee7bff3, com.tk.nursing.vo.NurseVO@eafa5f, com.tk.nursing.vo.NurseVO@42db7371, com.tk.nursing.vo.NurseVO@55782201, com.tk.nursing.vo.NurseVO@42009b7d, com.tk.nursing.vo.NurseVO@35e04d65, com.tk.nursing.vo.NurseVO@18f93d85, com.tk.nursing.vo.NurseVO@1335f392, com.tk.nursing.vo.NurseVO@3b0a0018, com.tk.nursing.vo.NurseVO@d8c45f0, com.tk.nursing.vo.NurseVO@74439682, com.tk.nursing.vo.NurseVO@14e6c70, com.tk.nursing.vo.NurseVO@43b12dbb, com.tk.nursing.vo.NurseVO@253172b5, com.tk.nursing.vo.NurseVO@5161dc26] 
+main> [2014-01-22 22:44:06] [ExcelImporter] [154] [DEBUG] last row no=23 
+main> [2014-01-22 22:44:06] [ExcelImporter] [155] [DEBUG] last col no=39 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value =  
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value =  
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 부서명 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value =  
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:44:06] [ExcelImporter] [168] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:44:06] [ExcelImporter] [183] [DEBUG] @@ nurseList = [com.tk.nursing.vo.NurseVO@534a263e, com.tk.nursing.vo.NurseVO@2914db2a, com.tk.nursing.vo.NurseVO@1840b778, com.tk.nursing.vo.NurseVO@40cd33b8, com.tk.nursing.vo.NurseVO@5ffe9644, com.tk.nursing.vo.NurseVO@433b7b98, com.tk.nursing.vo.NurseVO@762f5aa3, com.tk.nursing.vo.NurseVO@1ee7bff3, com.tk.nursing.vo.NurseVO@eafa5f, com.tk.nursing.vo.NurseVO@42db7371, com.tk.nursing.vo.NurseVO@55782201, com.tk.nursing.vo.NurseVO@42009b7d, com.tk.nursing.vo.NurseVO@35e04d65, com.tk.nursing.vo.NurseVO@18f93d85, com.tk.nursing.vo.NurseVO@1335f392, com.tk.nursing.vo.NurseVO@3b0a0018, com.tk.nursing.vo.NurseVO@d8c45f0, com.tk.nursing.vo.NurseVO@74439682, com.tk.nursing.vo.NurseVO@14e6c70, com.tk.nursing.vo.NurseVO@43b12dbb, com.tk.nursing.vo.NurseVO@253172b5, com.tk.nursing.vo.NurseVO@5161dc26, com.tk.nursing.vo.NurseVO@6fbc6c87] 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@534a263e 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@2914db2a 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@1840b778 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@40cd33b8 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@5ffe9644 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@433b7b98 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@762f5aa3 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@1ee7bff3 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@eafa5f 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@42db7371 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@55782201 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@42009b7d 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@35e04d65 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@18f93d85 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@1335f392 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@3b0a0018 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@d8c45f0 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@74439682 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@14e6c70 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@43b12dbb 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@253172b5 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@5161dc26 
+main> [2014-01-22 22:44:06] [ExcelImporter] [186] [DEBUG] com.tk.nursing.vo.NurseVO@6fbc6c87 
+main> [2014-01-22 22:46:18] [ExcelImporter] [154] [DEBUG] last row no=23 
+main> [2014-01-22 22:46:18] [ExcelImporter] [155] [DEBUG] last col no=39 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value =  
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value =  
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 부서명 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value =  
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:46:18] [ExcelImporter] [168] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:46:18] [ExcelImporter] [183] [DEBUG] @@ nurseList = [com.tk.nursing.vo.NurseVO@534a263e, com.tk.nursing.vo.NurseVO@2914db2a, com.tk.nursing.vo.NurseVO@1840b778, com.tk.nursing.vo.NurseVO@40cd33b8, com.tk.nursing.vo.NurseVO@5ffe9644, com.tk.nursing.vo.NurseVO@433b7b98, com.tk.nursing.vo.NurseVO@762f5aa3, com.tk.nursing.vo.NurseVO@1ee7bff3, com.tk.nursing.vo.NurseVO@eafa5f, com.tk.nursing.vo.NurseVO@42db7371, com.tk.nursing.vo.NurseVO@55782201, com.tk.nursing.vo.NurseVO@42009b7d, com.tk.nursing.vo.NurseVO@35e04d65, com.tk.nursing.vo.NurseVO@18f93d85, com.tk.nursing.vo.NurseVO@1335f392, com.tk.nursing.vo.NurseVO@3b0a0018, com.tk.nursing.vo.NurseVO@d8c45f0, com.tk.nursing.vo.NurseVO@74439682, com.tk.nursing.vo.NurseVO@14e6c70, com.tk.nursing.vo.NurseVO@43b12dbb, com.tk.nursing.vo.NurseVO@253172b5, com.tk.nursing.vo.NurseVO@5161dc26, com.tk.nursing.vo.NurseVO@6fbc6c87] 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG]  
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG]  
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 성명 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG]  
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 문현주 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 송남희 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 나옥연 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 이수진B 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 홍진수 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 박순분 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 김현정G 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 장선혜 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 박혜미 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 백류리 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 백혜정 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 최수진 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 임지영 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 최지현 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 신다은 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 윤여정 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 김은숙 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 정화숙 
+main> [2014-01-22 22:46:18] [ExcelImporter] [186] [DEBUG] 이분옥 
+main> [2014-01-22 22:48:44] [ExcelImporter] [154] [DEBUG] last row no=23 
+main> [2014-01-22 22:48:44] [ExcelImporter] [155] [DEBUG] last col no=39 
+main> [2014-01-22 22:48:44] [ExcelImporter] [171] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:48:44] [ExcelImporter] [171] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:48:44] [ExcelImporter] [171] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:48:44] [ExcelImporter] [171] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:48:44] [ExcelImporter] [171] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:48:44] [ExcelImporter] [171] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:48:44] [ExcelImporter] [171] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:48:44] [ExcelImporter] [171] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:48:44] [ExcelImporter] [171] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:48:44] [ExcelImporter] [171] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:48:44] [ExcelImporter] [171] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:48:44] [ExcelImporter] [171] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:48:44] [ExcelImporter] [171] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:48:44] [ExcelImporter] [171] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:48:44] [ExcelImporter] [171] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:48:44] [ExcelImporter] [171] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:48:44] [ExcelImporter] [171] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:48:44] [ExcelImporter] [171] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:48:44] [ExcelImporter] [186] [DEBUG] @@ nurseList = [com.tk.nursing.vo.NurseVO@1840b778, com.tk.nursing.vo.NurseVO@40cd33b8, com.tk.nursing.vo.NurseVO@5ffe9644, com.tk.nursing.vo.NurseVO@433b7b98, com.tk.nursing.vo.NurseVO@762f5aa3, com.tk.nursing.vo.NurseVO@1ee7bff3, com.tk.nursing.vo.NurseVO@eafa5f, com.tk.nursing.vo.NurseVO@42db7371, com.tk.nursing.vo.NurseVO@55782201, com.tk.nursing.vo.NurseVO@42009b7d, com.tk.nursing.vo.NurseVO@35e04d65, com.tk.nursing.vo.NurseVO@18f93d85, com.tk.nursing.vo.NurseVO@1335f392, com.tk.nursing.vo.NurseVO@3b0a0018, com.tk.nursing.vo.NurseVO@d8c45f0, com.tk.nursing.vo.NurseVO@74439682, com.tk.nursing.vo.NurseVO@14e6c70, com.tk.nursing.vo.NurseVO@43b12dbb] 
+main> [2014-01-22 22:48:44] [ExcelImporter] [189] [DEBUG] 송남희 
+main> [2014-01-22 22:48:44] [ExcelImporter] [189] [DEBUG] 나옥연 
+main> [2014-01-22 22:48:44] [ExcelImporter] [189] [DEBUG] 이수진B 
+main> [2014-01-22 22:48:44] [ExcelImporter] [189] [DEBUG] 홍진수 
+main> [2014-01-22 22:48:44] [ExcelImporter] [189] [DEBUG] 박순분 
+main> [2014-01-22 22:48:44] [ExcelImporter] [189] [DEBUG] 김현정G 
+main> [2014-01-22 22:48:44] [ExcelImporter] [189] [DEBUG] 장선혜 
+main> [2014-01-22 22:48:44] [ExcelImporter] [189] [DEBUG] 박혜미 
+main> [2014-01-22 22:48:44] [ExcelImporter] [189] [DEBUG] 백류리 
+main> [2014-01-22 22:48:44] [ExcelImporter] [189] [DEBUG] 백혜정 
+main> [2014-01-22 22:48:44] [ExcelImporter] [189] [DEBUG] 최수진 
+main> [2014-01-22 22:48:44] [ExcelImporter] [189] [DEBUG] 임지영 
+main> [2014-01-22 22:48:44] [ExcelImporter] [189] [DEBUG] 최지현 
+main> [2014-01-22 22:48:44] [ExcelImporter] [189] [DEBUG] 신다은 
+main> [2014-01-22 22:48:44] [ExcelImporter] [189] [DEBUG] 윤여정 
+main> [2014-01-22 22:48:44] [ExcelImporter] [189] [DEBUG] 김은숙 
+main> [2014-01-22 22:48:44] [ExcelImporter] [189] [DEBUG] 정화숙 
+main> [2014-01-22 22:48:44] [ExcelImporter] [189] [DEBUG] 이분옥 
+main> [2014-01-22 22:49:01] [ExcelImporter] [154] [DEBUG] last row no=23 
+main> [2014-01-22 22:49:01] [ExcelImporter] [155] [DEBUG] last col no=39 
+main> [2014-01-22 22:49:01] [ExcelImporter] [171] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:49:01] [ExcelImporter] [171] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:49:01] [ExcelImporter] [171] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:49:01] [ExcelImporter] [171] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:49:01] [ExcelImporter] [171] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:49:01] [ExcelImporter] [171] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:49:01] [ExcelImporter] [171] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:49:01] [ExcelImporter] [171] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:49:01] [ExcelImporter] [171] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:49:01] [ExcelImporter] [171] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:49:01] [ExcelImporter] [171] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:49:01] [ExcelImporter] [171] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:49:01] [ExcelImporter] [171] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:49:01] [ExcelImporter] [171] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:49:01] [ExcelImporter] [171] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:49:01] [ExcelImporter] [171] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:49:01] [ExcelImporter] [171] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:49:01] [ExcelImporter] [171] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:49:01] [ExcelImporter] [171] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:49:01] [ExcelImporter] [186] [DEBUG] @@ nurseList = [com.tk.nursing.vo.NurseVO@2914db2a, com.tk.nursing.vo.NurseVO@1840b778, com.tk.nursing.vo.NurseVO@40cd33b8, com.tk.nursing.vo.NurseVO@5ffe9644, com.tk.nursing.vo.NurseVO@433b7b98, com.tk.nursing.vo.NurseVO@762f5aa3, com.tk.nursing.vo.NurseVO@1ee7bff3, com.tk.nursing.vo.NurseVO@eafa5f, com.tk.nursing.vo.NurseVO@42db7371, com.tk.nursing.vo.NurseVO@55782201, com.tk.nursing.vo.NurseVO@42009b7d, com.tk.nursing.vo.NurseVO@35e04d65, com.tk.nursing.vo.NurseVO@18f93d85, com.tk.nursing.vo.NurseVO@1335f392, com.tk.nursing.vo.NurseVO@3b0a0018, com.tk.nursing.vo.NurseVO@d8c45f0, com.tk.nursing.vo.NurseVO@74439682, com.tk.nursing.vo.NurseVO@14e6c70, com.tk.nursing.vo.NurseVO@43b12dbb] 
+main> [2014-01-22 22:49:01] [ExcelImporter] [189] [DEBUG] 문현주 
+main> [2014-01-22 22:49:01] [ExcelImporter] [189] [DEBUG] 송남희 
+main> [2014-01-22 22:49:01] [ExcelImporter] [189] [DEBUG] 나옥연 
+main> [2014-01-22 22:49:01] [ExcelImporter] [189] [DEBUG] 이수진B 
+main> [2014-01-22 22:49:01] [ExcelImporter] [189] [DEBUG] 홍진수 
+main> [2014-01-22 22:49:01] [ExcelImporter] [189] [DEBUG] 박순분 
+main> [2014-01-22 22:49:01] [ExcelImporter] [189] [DEBUG] 김현정G 
+main> [2014-01-22 22:49:01] [ExcelImporter] [189] [DEBUG] 장선혜 
+main> [2014-01-22 22:49:01] [ExcelImporter] [189] [DEBUG] 박혜미 
+main> [2014-01-22 22:49:01] [ExcelImporter] [189] [DEBUG] 백류리 
+main> [2014-01-22 22:49:01] [ExcelImporter] [189] [DEBUG] 백혜정 
+main> [2014-01-22 22:49:01] [ExcelImporter] [189] [DEBUG] 최수진 
+main> [2014-01-22 22:49:01] [ExcelImporter] [189] [DEBUG] 임지영 
+main> [2014-01-22 22:49:01] [ExcelImporter] [189] [DEBUG] 최지현 
+main> [2014-01-22 22:49:01] [ExcelImporter] [189] [DEBUG] 신다은 
+main> [2014-01-22 22:49:01] [ExcelImporter] [189] [DEBUG] 윤여정 
+main> [2014-01-22 22:49:01] [ExcelImporter] [189] [DEBUG] 김은숙 
+main> [2014-01-22 22:49:01] [ExcelImporter] [189] [DEBUG] 정화숙 
+main> [2014-01-22 22:49:01] [ExcelImporter] [189] [DEBUG] 이분옥 
+main> [2014-01-22 22:55:03] [ExcelImporter] [156] [DEBUG] last row no=23 
+main> [2014-01-22 22:55:03] [ExcelImporter] [157] [DEBUG] last col no=39 
+main> [2014-01-22 22:55:03] [ExcelImporter] [169] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:55:03] [ExcelImporter] [169] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:55:03] [ExcelImporter] [169] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:55:03] [ExcelImporter] [169] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:55:03] [ExcelImporter] [169] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:55:03] [ExcelImporter] [169] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:55:03] [ExcelImporter] [169] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:55:03] [ExcelImporter] [169] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:55:03] [ExcelImporter] [169] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:55:03] [ExcelImporter] [169] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:55:03] [ExcelImporter] [169] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:55:03] [ExcelImporter] [169] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:55:03] [ExcelImporter] [169] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:55:03] [ExcelImporter] [169] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:55:03] [ExcelImporter] [169] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 22:55:03] [ExcelImporter] [169] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 22:55:03] [ExcelImporter] [169] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:55:03] [ExcelImporter] [169] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:55:03] [ExcelImporter] [169] [DEBUG] cell value = 5병동 
+main> [2014-01-22 22:55:03] [ExcelImporter] [192] [DEBUG] @@ nurse A Grp.sz = 8 
+main> [2014-01-22 22:55:03] [ExcelImporter] [193] [DEBUG] @@ nurse B Grp.sz = 7 
+main> [2014-01-22 22:55:03] [ExcelImporter] [194] [DEBUG] @@ nurseList = [com.tk.nursing.vo.NurseVO@762f5aa3, com.tk.nursing.vo.NurseVO@1ee7bff3, com.tk.nursing.vo.NurseVO@eafa5f, com.tk.nursing.vo.NurseVO@42db7371, com.tk.nursing.vo.NurseVO@55782201, com.tk.nursing.vo.NurseVO@42009b7d, com.tk.nursing.vo.NurseVO@35e04d65, com.tk.nursing.vo.NurseVO@18f93d85, com.tk.nursing.vo.NurseVO@1335f392, com.tk.nursing.vo.NurseVO@3b0a0018, com.tk.nursing.vo.NurseVO@d8c45f0, com.tk.nursing.vo.NurseVO@74439682, com.tk.nursing.vo.NurseVO@14e6c70, com.tk.nursing.vo.NurseVO@43b12dbb, com.tk.nursing.vo.NurseVO@253172b5, com.tk.nursing.vo.NurseVO@5161dc26, com.tk.nursing.vo.NurseVO@6fbc6c87, com.tk.nursing.vo.NurseVO@3b794c60, com.tk.nursing.vo.NurseVO@18855121] 
+main> [2014-01-22 22:55:03] [ExcelImporter] [197] [DEBUG] 문현주 
+main> [2014-01-22 22:55:03] [ExcelImporter] [197] [DEBUG] 송남희 
+main> [2014-01-22 22:55:03] [ExcelImporter] [197] [DEBUG] 나옥연 
+main> [2014-01-22 22:55:03] [ExcelImporter] [197] [DEBUG] 이수진B 
+main> [2014-01-22 22:55:03] [ExcelImporter] [197] [DEBUG] 홍진수 
+main> [2014-01-22 22:55:03] [ExcelImporter] [197] [DEBUG] 박순분 
+main> [2014-01-22 22:55:03] [ExcelImporter] [197] [DEBUG] 김현정G 
+main> [2014-01-22 22:55:03] [ExcelImporter] [197] [DEBUG] 장선혜 
+main> [2014-01-22 22:55:03] [ExcelImporter] [197] [DEBUG] 박혜미 
+main> [2014-01-22 22:55:03] [ExcelImporter] [197] [DEBUG] 백류리 
+main> [2014-01-22 22:55:03] [ExcelImporter] [197] [DEBUG] 백혜정 
+main> [2014-01-22 22:55:03] [ExcelImporter] [197] [DEBUG] 최수진 
+main> [2014-01-22 22:55:03] [ExcelImporter] [197] [DEBUG] 임지영 
+main> [2014-01-22 22:55:03] [ExcelImporter] [197] [DEBUG] 최지현 
+main> [2014-01-22 22:55:03] [ExcelImporter] [197] [DEBUG] 신다은 
+main> [2014-01-22 22:55:03] [ExcelImporter] [197] [DEBUG] 윤여정 
+main> [2014-01-22 22:55:03] [ExcelImporter] [197] [DEBUG] 김은숙 
+main> [2014-01-22 22:55:03] [ExcelImporter] [197] [DEBUG] 정화숙 
+main> [2014-01-22 22:55:03] [ExcelImporter] [197] [DEBUG] 이분옥 
+main> [2014-01-22 23:00:14] [ExcelImporter] [156] [DEBUG] last row no=23 
+main> [2014-01-22 23:00:14] [ExcelImporter] [157] [DEBUG] last col no=39 
+main> [2014-01-22 23:00:14] [ExcelImporter] [173] [DEBUG] cell value = 5병동 
+main> [2014-01-22 23:01:14] [ExcelImporter] [156] [DEBUG] last row no=23 
+main> [2014-01-22 23:01:14] [ExcelImporter] [157] [DEBUG] last col no=39 
+main> [2014-01-22 23:01:14] [ExcelImporter] [173] [DEBUG] cell value = 5병동 
+main> [2014-01-22 23:01:14] [ExcelImporter] [169] [DEBUG] 2.0 
+main> [2014-01-22 23:02:45] [ExcelImporter] [156] [DEBUG] last row no=23 
+main> [2014-01-22 23:02:45] [ExcelImporter] [157] [DEBUG] last col no=39 
+main> [2014-01-22 23:02:45] [ExcelImporter] [173] [DEBUG] cell value = 5병동 
+main> [2014-01-22 23:03:08] [ExcelImporter] [156] [DEBUG] last row no=23 
+main> [2014-01-22 23:03:08] [ExcelImporter] [157] [DEBUG] last col no=39 
+main> [2014-01-22 23:03:08] [ExcelImporter] [173] [DEBUG] cell value = 5병동 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 0 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 1 
+main> [2014-01-22 23:03:08] [ExcelImporter] [173] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 1 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 1 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 0 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 0 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 0 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 0 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:08] [ExcelImporter] [169] [DEBUG] 3 
+main> [2014-01-22 23:03:50] [ExcelImporter] [156] [DEBUG] last row no=23 
+main> [2014-01-22 23:03:50] [ExcelImporter] [157] [DEBUG] last col no=39 
+main> [2014-01-22 23:03:50] [ExcelImporter] [173] [DEBUG] cell value = 5병동 
+main> [2014-01-22 23:03:50] [ExcelImporter] [173] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 23:03:50] [ExcelImporter] [173] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 23:03:50] [ExcelImporter] [173] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 23:03:50] [ExcelImporter] [173] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 23:03:50] [ExcelImporter] [173] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 23:03:50] [ExcelImporter] [173] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 23:03:50] [ExcelImporter] [173] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 23:03:50] [ExcelImporter] [173] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 23:03:50] [ExcelImporter] [173] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 23:03:50] [ExcelImporter] [173] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 23:03:50] [ExcelImporter] [173] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 23:03:50] [ExcelImporter] [173] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 23:03:50] [ExcelImporter] [173] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 23:03:50] [ExcelImporter] [173] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 23:03:50] [ExcelImporter] [173] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 23:03:50] [ExcelImporter] [173] [DEBUG] cell value = 5병동 
+main> [2014-01-22 23:03:50] [ExcelImporter] [173] [DEBUG] cell value = 5병동 
+main> [2014-01-22 23:03:50] [ExcelImporter] [173] [DEBUG] cell value = 5병동 
+main> [2014-01-22 23:03:50] [ExcelImporter] [197] [DEBUG] @@ nurse A Grp.sz = 8 
+main> [2014-01-22 23:03:50] [ExcelImporter] [198] [DEBUG] @@ nurse B Grp.sz = 7 
+main> [2014-01-22 23:03:50] [ExcelImporter] [199] [DEBUG] @@ nurseList = [com.tk.nursing.vo.NurseVO@1ee7bff3, com.tk.nursing.vo.NurseVO@eafa5f, com.tk.nursing.vo.NurseVO@42db7371, com.tk.nursing.vo.NurseVO@55782201, com.tk.nursing.vo.NurseVO@42009b7d, com.tk.nursing.vo.NurseVO@35e04d65, com.tk.nursing.vo.NurseVO@18f93d85, com.tk.nursing.vo.NurseVO@1335f392, com.tk.nursing.vo.NurseVO@3b0a0018, com.tk.nursing.vo.NurseVO@d8c45f0, com.tk.nursing.vo.NurseVO@74439682, com.tk.nursing.vo.NurseVO@14e6c70, com.tk.nursing.vo.NurseVO@43b12dbb, com.tk.nursing.vo.NurseVO@253172b5, com.tk.nursing.vo.NurseVO@5161dc26, com.tk.nursing.vo.NurseVO@6fbc6c87, com.tk.nursing.vo.NurseVO@3b794c60, com.tk.nursing.vo.NurseVO@18855121, com.tk.nursing.vo.NurseVO@58915a1a] 
+main> [2014-01-22 23:03:50] [ExcelImporter] [202] [DEBUG] 문현주 
+main> [2014-01-22 23:03:50] [ExcelImporter] [202] [DEBUG] 송남희 
+main> [2014-01-22 23:03:50] [ExcelImporter] [202] [DEBUG] 나옥연 
+main> [2014-01-22 23:03:50] [ExcelImporter] [202] [DEBUG] 이수진B 
+main> [2014-01-22 23:03:50] [ExcelImporter] [202] [DEBUG] 홍진수 
+main> [2014-01-22 23:03:50] [ExcelImporter] [202] [DEBUG] 박순분 
+main> [2014-01-22 23:03:50] [ExcelImporter] [202] [DEBUG] 김현정G 
+main> [2014-01-22 23:03:50] [ExcelImporter] [202] [DEBUG] 장선혜 
+main> [2014-01-22 23:03:50] [ExcelImporter] [202] [DEBUG] 박혜미 
+main> [2014-01-22 23:03:50] [ExcelImporter] [202] [DEBUG] 백류리 
+main> [2014-01-22 23:03:50] [ExcelImporter] [202] [DEBUG] 백혜정 
+main> [2014-01-22 23:03:50] [ExcelImporter] [202] [DEBUG] 최수진 
+main> [2014-01-22 23:03:50] [ExcelImporter] [202] [DEBUG] 임지영 
+main> [2014-01-22 23:03:50] [ExcelImporter] [202] [DEBUG] 최지현 
+main> [2014-01-22 23:03:50] [ExcelImporter] [202] [DEBUG] 신다은 
+main> [2014-01-22 23:03:50] [ExcelImporter] [202] [DEBUG] 윤여정 
+main> [2014-01-22 23:03:50] [ExcelImporter] [202] [DEBUG] 김은숙 
+main> [2014-01-22 23:03:50] [ExcelImporter] [202] [DEBUG] 정화숙 
+main> [2014-01-22 23:03:50] [ExcelImporter] [202] [DEBUG] 이분옥 
+main> [2014-01-22 23:04:11] [ExcelImporter] [156] [DEBUG] last row no=23 
+main> [2014-01-22 23:04:11] [ExcelImporter] [157] [DEBUG] last col no=39 
+main> [2014-01-22 23:04:11] [ExcelImporter] [173] [DEBUG] cell value = 5병동 
+main> [2014-01-22 23:04:11] [ExcelImporter] [173] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 23:04:11] [ExcelImporter] [173] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 23:04:11] [ExcelImporter] [173] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 23:04:11] [ExcelImporter] [173] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 23:04:11] [ExcelImporter] [173] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 23:04:11] [ExcelImporter] [173] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 23:04:11] [ExcelImporter] [173] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 23:04:11] [ExcelImporter] [173] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 23:04:11] [ExcelImporter] [173] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 23:04:11] [ExcelImporter] [173] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 23:04:11] [ExcelImporter] [173] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 23:04:11] [ExcelImporter] [173] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 23:04:11] [ExcelImporter] [173] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 23:04:11] [ExcelImporter] [173] [DEBUG] cell value = 5병동A 
+main> [2014-01-22 23:04:11] [ExcelImporter] [173] [DEBUG] cell value = 5병동B 
+main> [2014-01-22 23:04:11] [ExcelImporter] [173] [DEBUG] cell value = 5병동 
+main> [2014-01-22 23:04:11] [ExcelImporter] [173] [DEBUG] cell value = 5병동 
+main> [2014-01-22 23:04:11] [ExcelImporter] [173] [DEBUG] cell value = 5병동 
+main> [2014-01-22 23:04:11] [ExcelImporter] [197] [DEBUG] @@ nurse A Grp.sz = 8 
+main> [2014-01-22 23:04:11] [ExcelImporter] [198] [DEBUG] @@ nurse B Grp.sz = 7 
+main> [2014-01-22 23:04:11] [ExcelImporter] [199] [DEBUG] @@ nurseList = [com.tk.nursing.vo.NurseVO@eafa5f, com.tk.nursing.vo.NurseVO@42db7371, com.tk.nursing.vo.NurseVO@55782201, com.tk.nursing.vo.NurseVO@42009b7d, com.tk.nursing.vo.NurseVO@35e04d65, com.tk.nursing.vo.NurseVO@18f93d85, com.tk.nursing.vo.NurseVO@1335f392, com.tk.nursing.vo.NurseVO@3b0a0018, com.tk.nursing.vo.NurseVO@d8c45f0, com.tk.nursing.vo.NurseVO@74439682, com.tk.nursing.vo.NurseVO@14e6c70, com.tk.nursing.vo.NurseVO@43b12dbb, com.tk.nursing.vo.NurseVO@253172b5, com.tk.nursing.vo.NurseVO@5161dc26, com.tk.nursing.vo.NurseVO@6fbc6c87, com.tk.nursing.vo.NurseVO@3b794c60, com.tk.nursing.vo.NurseVO@18855121, com.tk.nursing.vo.NurseVO@58915a1a, com.tk.nursing.vo.NurseVO@2eb28e63] 
+main> [2014-01-22 23:04:11] [ExcelImporter] [202] [DEBUG] 문현주 
+main> [2014-01-22 23:04:11] [ExcelImporter] [202] [DEBUG] 송남희 
+main> [2014-01-22 23:04:11] [ExcelImporter] [202] [DEBUG] 나옥연 
+main> [2014-01-22 23:04:11] [ExcelImporter] [202] [DEBUG] 이수진B 
+main> [2014-01-22 23:04:11] [ExcelImporter] [202] [DEBUG] 홍진수 
+main> [2014-01-22 23:04:11] [ExcelImporter] [202] [DEBUG] 박순분 
+main> [2014-01-22 23:04:11] [ExcelImporter] [202] [DEBUG] 김현정G 
+main> [2014-01-22 23:04:11] [ExcelImporter] [202] [DEBUG] 장선혜 
+main> [2014-01-22 23:04:11] [ExcelImporter] [202] [DEBUG] 박혜미 
+main> [2014-01-22 23:04:11] [ExcelImporter] [202] [DEBUG] 백류리 
+main> [2014-01-22 23:04:11] [ExcelImporter] [202] [DEBUG] 백혜정 
+main> [2014-01-22 23:04:11] [ExcelImporter] [202] [DEBUG] 최수진 
+main> [2014-01-22 23:04:11] [ExcelImporter] [202] [DEBUG] 임지영 
+main> [2014-01-22 23:04:11] [ExcelImporter] [202] [DEBUG] 최지현 
+main> [2014-01-22 23:04:11] [ExcelImporter] [202] [DEBUG] 신다은 
+main> [2014-01-22 23:04:11] [ExcelImporter] [202] [DEBUG] 윤여정 
+main> [2014-01-22 23:04:11] [ExcelImporter] [202] [DEBUG] 김은숙 
+main> [2014-01-22 23:04:11] [ExcelImporter] [202] [DEBUG] 정화숙 
+main> [2014-01-22 23:04:11] [ExcelImporter] [202] [DEBUG] 이분옥 
+main> [2014-01-22 23:06:33] [ExcelImporter] [156] [DEBUG] last row no=23 
+main> [2014-01-22 23:06:33] [ExcelImporter] [157] [DEBUG] last col no=39 
+main> [2014-01-22 23:06:33] [ExcelImporter] [164] [DEBUG] cell value1 = 번
+호 
+main> [2014-01-22 23:06:33] [ExcelImporter] [164] [DEBUG] cell value1 = 부서명 
+main> [2014-01-22 23:06:33] [ExcelImporter] [164] [DEBUG] cell value1 = 직책 
+main> [2014-01-22 23:06:33] [ExcelImporter] [164] [DEBUG] cell value1 = 성명 
+main> [2014-01-22 23:06:33] [ExcelImporter] [164] [DEBUG] cell value1 = 발생
+연차 
+main> [2014-01-22 23:07:02] [ExcelImporter] [156] [DEBUG] last row no=23 
+main> [2014-01-22 23:07:02] [ExcelImporter] [157] [DEBUG] last col no=39 
+main> [2014-01-22 23:07:21] [ExcelImporter] [156] [DEBUG] last row no=23 
+main> [2014-01-22 23:07:21] [ExcelImporter] [157] [DEBUG] last col no=39 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 1.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 2.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 3.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 4.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 5.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 6.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 7.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 8.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 9.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 10.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 11.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 12.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 13.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 14.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 15.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 16.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 17.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 18.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 19.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 20.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 21.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 22.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 23.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 24.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 25.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 26.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 27.0 
+main> [2014-01-22 23:07:21] [ExcelImporter] [164] [DEBUG] cell value1 = 28.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [156] [DEBUG] last row no=23 
+main> [2014-01-22 23:08:05] [ExcelImporter] [157] [DEBUG] last col no=39 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 1.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 2.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 3.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 4.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 5.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 6.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 7.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 8.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 9.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 10.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 11.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 12.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 13.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 14.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 15.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 16.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 17.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 18.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 19.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 20.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 21.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 22.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 23.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 24.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 25.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 26.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 27.0 
+main> [2014-01-22 23:08:05] [ExcelImporter] [164] [DEBUG] cell value1 = 28.0 
+main> [2014-01-22 23:08:25] [ExcelImporter] [156] [DEBUG] last row no=23 
+main> [2014-01-22 23:08:25] [ExcelImporter] [157] [DEBUG] last col no=39 
+main> [2014-01-22 23:10:32] [ExcelImporter] [156] [DEBUG] last row no=23 
+main> [2014-01-22 23:10:32] [ExcelImporter] [157] [DEBUG] last col no=39 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 1 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 2 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 3 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 4 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 5 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 6 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 7 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 8 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 9 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 10 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 11 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 12 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 13 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 14 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 15 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 16 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 17 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 18 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 19 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 20 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 21 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 22 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 23 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 24 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 25 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 26 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 27 
+main> [2014-01-22 23:10:32] [ExcelImporter] [164] [DEBUG] cell value1 = 28 
+main> [2014-01-22 23:12:53] [ExcelImporter] [156] [DEBUG] last row no=23 
+main> [2014-01-22 23:12:53] [ExcelImporter] [157] [DEBUG] last col no=39 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 1 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 2 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 3 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 4 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 5 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 6 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 7 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 8 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 9 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 10 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 11 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 12 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 13 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 14 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 15 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 16 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 17 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 18 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 19 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 20 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 21 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 22 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 23 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 24 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 25 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 26 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 27 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-22 23:12:53] [ExcelImporter] [164] [DEBUG] cell value1 = 28 
+main> [2014-01-22 23:12:53] [ExcelImporter] [169] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [156] [DEBUG] last row no=23 
+main> [2014-01-23 08:40:32] [ExcelImporter] [157] [DEBUG] last col no=39 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 1 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 2 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 3 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 4 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 5 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 6 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 7 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 8 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 9 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 10 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 11 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 12 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 13 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 14 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 15 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 16 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 17 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 18 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 19 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 20 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 21 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 22 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 23 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 24 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 25 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 26 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 27 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:40:32] [ExcelImporter] [164] [DEBUG] cell value1 = 28 
+main> [2014-01-23 08:40:32] [ExcelImporter] [172] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [156] [DEBUG] last row no=23 
+main> [2014-01-23 08:42:31] [ExcelImporter] [157] [DEBUG] last col no=39 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 1 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 2 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 3 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 4 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 5 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 6 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 7 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 8 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 9 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 10 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 11 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 12 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 13 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 14 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 15 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 16 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 17 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 18 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 19 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 20 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 21 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 22 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 23 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 24 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 25 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 26 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 27 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [165] [DEBUG] cell value1 = 28 
+main> [2014-01-23 08:42:31] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:42:31] [ExcelImporter] [164] [DEBUG] cell type = 1 
+main> [2014-01-23 08:45:02] [ExcelImporter] [156] [DEBUG] last row no=23 
+main> [2014-01-23 08:45:02] [ExcelImporter] [157] [DEBUG] last col no=39 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 1 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 2 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 3 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 4 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 5 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 6 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 7 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 8 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 9 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 10 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 11 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 12 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 13 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 14 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 15 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 16 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 17 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 18 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 19 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 20 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 21 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 22 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 23 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 24 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 25 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 26 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 27 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [167] [DEBUG] cell value1 = 28 
+main> [2014-01-23 08:45:02] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 1 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 1 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 1 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 1 
+main> [2014-01-23 08:45:02] [ExcelImporter] [164] [DEBUG] cell type = 1 
+main> [2014-01-23 08:46:07] [ExcelImporter] [156] [DEBUG] last row no=23 
+main> [2014-01-23 08:46:07] [ExcelImporter] [157] [DEBUG] last col no=39 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 1 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 2 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 3 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 4 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 5 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 6 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 7 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 8 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 9 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 10 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 11 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 12 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 13 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 14 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 15 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 16 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 17 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 18 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 19 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 20 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 21 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 22 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 23 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 24 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 25 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 26 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 27 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [167] [DEBUG] cell value1 = 28 
+main> [2014-01-23 08:46:07] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 1 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 1 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 1 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 1 
+main> [2014-01-23 08:46:07] [ExcelImporter] [164] [DEBUG] cell type = 1 
+main> [2014-01-23 08:46:20] [ExcelImporter] [156] [DEBUG] last row no=23 
+main> [2014-01-23 08:46:20] [ExcelImporter] [157] [DEBUG] last col no=39 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 1 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 2 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 3 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 4 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 5 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 6 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 7 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 8 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 9 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 10 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 11 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 12 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 13 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 14 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 15 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 16 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 17 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 18 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 19 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 20 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 21 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 22 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 23 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 24 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 25 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 26 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 27 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [167] [DEBUG] cell value1 = 28 
+main> [2014-01-23 08:46:20] [ExcelImporter] [173] [DEBUG] 0:0:0 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 1 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 1 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 1 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 1 
+main> [2014-01-23 08:46:20] [ExcelImporter] [165] [DEBUG] cell type = 1 
+main> [2014-01-23 08:46:20] [ExcelImporter] [192] [DEBUG] cell value = 5병동 
+main> [2014-01-23 08:46:20] [ExcelImporter] [192] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 08:46:20] [ExcelImporter] [192] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 08:46:20] [ExcelImporter] [192] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 08:46:20] [ExcelImporter] [192] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 08:46:20] [ExcelImporter] [192] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 08:46:20] [ExcelImporter] [192] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 08:46:20] [ExcelImporter] [192] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 08:46:20] [ExcelImporter] [192] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 08:46:20] [ExcelImporter] [192] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 08:46:20] [ExcelImporter] [192] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 08:46:20] [ExcelImporter] [192] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 08:46:20] [ExcelImporter] [192] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 08:46:20] [ExcelImporter] [192] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 08:46:20] [ExcelImporter] [192] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 08:46:20] [ExcelImporter] [192] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 08:46:20] [ExcelImporter] [192] [DEBUG] cell value = 5병동 
+main> [2014-01-23 08:46:20] [ExcelImporter] [192] [DEBUG] cell value = 5병동 
+main> [2014-01-23 08:46:20] [ExcelImporter] [192] [DEBUG] cell value = 5병동 
+main> [2014-01-23 08:46:20] [ExcelImporter] [216] [DEBUG] @@ nurse A Grp.sz = 8 
+main> [2014-01-23 08:46:20] [ExcelImporter] [217] [DEBUG] @@ nurse B Grp.sz = 7 
+main> [2014-01-23 08:46:20] [ExcelImporter] [218] [DEBUG] @@ nurseList = [com.tk.nursing.vo.NurseVO@8888e6c, com.tk.nursing.vo.NurseVO@3d3e58d4, com.tk.nursing.vo.NurseVO@4839e5b5, com.tk.nursing.vo.NurseVO@5117f31e, com.tk.nursing.vo.NurseVO@7b5a6029, com.tk.nursing.vo.NurseVO@6a5f6303, com.tk.nursing.vo.NurseVO@1c5d9084, com.tk.nursing.vo.NurseVO@42bad8a8, com.tk.nursing.vo.NurseVO@78e61fd1, com.tk.nursing.vo.NurseVO@4c331059, com.tk.nursing.vo.NurseVO@2c766a24, com.tk.nursing.vo.NurseVO@1232784a, com.tk.nursing.vo.NurseVO@2f774b9b, com.tk.nursing.vo.NurseVO@4104c575, com.tk.nursing.vo.NurseVO@203fa5ac, com.tk.nursing.vo.NurseVO@3295cfbe, com.tk.nursing.vo.NurseVO@979dce4, com.tk.nursing.vo.NurseVO@1f950198, com.tk.nursing.vo.NurseVO@6f9bb25a] 
+main> [2014-01-23 08:46:20] [ExcelImporter] [221] [DEBUG] 문현주 
+main> [2014-01-23 08:46:20] [ExcelImporter] [221] [DEBUG] 송남희 
+main> [2014-01-23 08:46:20] [ExcelImporter] [221] [DEBUG] 나옥연 
+main> [2014-01-23 08:46:20] [ExcelImporter] [221] [DEBUG] 이수진B 
+main> [2014-01-23 08:46:20] [ExcelImporter] [221] [DEBUG] 홍진수 
+main> [2014-01-23 08:46:20] [ExcelImporter] [221] [DEBUG] 박순분 
+main> [2014-01-23 08:46:20] [ExcelImporter] [221] [DEBUG] 김현정G 
+main> [2014-01-23 08:46:20] [ExcelImporter] [221] [DEBUG] 장선혜 
+main> [2014-01-23 08:46:20] [ExcelImporter] [221] [DEBUG] 박혜미 
+main> [2014-01-23 08:46:20] [ExcelImporter] [221] [DEBUG] 백류리 
+main> [2014-01-23 08:46:20] [ExcelImporter] [221] [DEBUG] 백혜정 
+main> [2014-01-23 08:46:20] [ExcelImporter] [221] [DEBUG] 최수진 
+main> [2014-01-23 08:46:20] [ExcelImporter] [221] [DEBUG] 임지영 
+main> [2014-01-23 08:46:20] [ExcelImporter] [221] [DEBUG] 최지현 
+main> [2014-01-23 08:46:20] [ExcelImporter] [221] [DEBUG] 신다은 
+main> [2014-01-23 08:46:20] [ExcelImporter] [221] [DEBUG] 윤여정 
+main> [2014-01-23 08:46:20] [ExcelImporter] [221] [DEBUG] 김은숙 
+main> [2014-01-23 08:46:20] [ExcelImporter] [221] [DEBUG] 정화숙 
+main> [2014-01-23 08:46:20] [ExcelImporter] [221] [DEBUG] 이분옥 
+main> [2014-01-23 08:58:27] [ExcelImporter] [157] [DEBUG] last row no=23 
+main> [2014-01-23 08:58:27] [ExcelImporter] [158] [DEBUG] last col no=39 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 1 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 2 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 3 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 4 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 5 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 6 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 7 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 8 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 9 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 10 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 11 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 12 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 13 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 14 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 15 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 16 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 17 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 18 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 19 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 20 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 21 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 22 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 23 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 24 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 25 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 26 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 27 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [172] [DEBUG] cell value1 = 28 
+main> [2014-01-23 08:58:27] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 1 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 1 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 1 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 1 
+main> [2014-01-23 08:58:27] [ExcelImporter] [168] [DEBUG] cell type = 1 
+main> [2014-01-23 08:58:27] [ExcelImporter] [183] [DEBUG] 이번달의 휴일 = [1, 2, 8, 9, 15, 16, 22, 23] 
+main> [2014-01-23 08:58:27] [ExcelImporter] [193] [DEBUG] cell value = 5병동 
+main> [2014-01-23 08:58:27] [ExcelImporter] [193] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 08:58:27] [ExcelImporter] [193] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 08:58:27] [ExcelImporter] [193] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 08:58:27] [ExcelImporter] [193] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 08:58:27] [ExcelImporter] [193] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 08:58:27] [ExcelImporter] [193] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 08:58:27] [ExcelImporter] [193] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 08:58:27] [ExcelImporter] [193] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 08:58:27] [ExcelImporter] [193] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 08:58:27] [ExcelImporter] [193] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 08:58:27] [ExcelImporter] [193] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 08:58:27] [ExcelImporter] [193] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 08:58:27] [ExcelImporter] [193] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 08:58:27] [ExcelImporter] [193] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 08:58:27] [ExcelImporter] [193] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 08:58:27] [ExcelImporter] [193] [DEBUG] cell value = 5병동 
+main> [2014-01-23 08:58:27] [ExcelImporter] [193] [DEBUG] cell value = 5병동 
+main> [2014-01-23 08:58:27] [ExcelImporter] [193] [DEBUG] cell value = 5병동 
+main> [2014-01-23 08:58:27] [ExcelImporter] [217] [DEBUG] @@ nurse A Grp.sz = 8 
+main> [2014-01-23 08:58:27] [ExcelImporter] [218] [DEBUG] @@ nurse B Grp.sz = 7 
+main> [2014-01-23 08:58:27] [ExcelImporter] [219] [DEBUG] @@ nurseList = [com.tk.nursing.vo.NurseVO@1c5d9084, com.tk.nursing.vo.NurseVO@42bad8a8, com.tk.nursing.vo.NurseVO@78e61fd1, com.tk.nursing.vo.NurseVO@4c331059, com.tk.nursing.vo.NurseVO@2c766a24, com.tk.nursing.vo.NurseVO@1232784a, com.tk.nursing.vo.NurseVO@2f774b9b, com.tk.nursing.vo.NurseVO@4104c575, com.tk.nursing.vo.NurseVO@203fa5ac, com.tk.nursing.vo.NurseVO@3295cfbe, com.tk.nursing.vo.NurseVO@979dce4, com.tk.nursing.vo.NurseVO@1f950198, com.tk.nursing.vo.NurseVO@6f9bb25a, com.tk.nursing.vo.NurseVO@56da6bf4, com.tk.nursing.vo.NurseVO@1de58cb8, com.tk.nursing.vo.NurseVO@4979935d, com.tk.nursing.vo.NurseVO@4cb9e45a, com.tk.nursing.vo.NurseVO@403ef810, com.tk.nursing.vo.NurseVO@66100363] 
+main> [2014-01-23 08:58:27] [ExcelImporter] [222] [DEBUG] 문현주 
+main> [2014-01-23 08:58:27] [ExcelImporter] [222] [DEBUG] 송남희 
+main> [2014-01-23 08:58:27] [ExcelImporter] [222] [DEBUG] 나옥연 
+main> [2014-01-23 08:58:27] [ExcelImporter] [222] [DEBUG] 이수진B 
+main> [2014-01-23 08:58:27] [ExcelImporter] [222] [DEBUG] 홍진수 
+main> [2014-01-23 08:58:27] [ExcelImporter] [222] [DEBUG] 박순분 
+main> [2014-01-23 08:58:27] [ExcelImporter] [222] [DEBUG] 김현정G 
+main> [2014-01-23 08:58:27] [ExcelImporter] [222] [DEBUG] 장선혜 
+main> [2014-01-23 08:58:27] [ExcelImporter] [222] [DEBUG] 박혜미 
+main> [2014-01-23 08:58:27] [ExcelImporter] [222] [DEBUG] 백류리 
+main> [2014-01-23 08:58:27] [ExcelImporter] [222] [DEBUG] 백혜정 
+main> [2014-01-23 08:58:27] [ExcelImporter] [222] [DEBUG] 최수진 
+main> [2014-01-23 08:58:27] [ExcelImporter] [222] [DEBUG] 임지영 
+main> [2014-01-23 08:58:27] [ExcelImporter] [222] [DEBUG] 최지현 
+main> [2014-01-23 08:58:27] [ExcelImporter] [222] [DEBUG] 신다은 
+main> [2014-01-23 08:58:27] [ExcelImporter] [222] [DEBUG] 윤여정 
+main> [2014-01-23 08:58:27] [ExcelImporter] [222] [DEBUG] 김은숙 
+main> [2014-01-23 08:58:27] [ExcelImporter] [222] [DEBUG] 정화숙 
+main> [2014-01-23 08:58:27] [ExcelImporter] [222] [DEBUG] 이분옥 
+main> [2014-01-23 09:00:00] [ExcelImporter] [157] [DEBUG] last row no=23 
+main> [2014-01-23 09:00:00] [ExcelImporter] [158] [DEBUG] last col no=39 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] FFFF:FFFF:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [178] [DEBUG] 0:0:0 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 1 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 1 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 1 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 1 
+main> [2014-01-23 09:00:00] [ExcelImporter] [168] [DEBUG] cell type = 1 
+main> [2014-01-23 09:00:00] [ExcelImporter] [183] [DEBUG] 이번달의 마지막일자 = 28 
+main> [2014-01-23 09:00:00] [ExcelImporter] [184] [DEBUG] 이번달의 휴일 = [1, 2, 8, 9, 15, 16, 22, 23] 
+main> [2014-01-23 09:00:00] [ExcelImporter] [194] [DEBUG] cell value = 5병동 
+main> [2014-01-23 09:00:00] [ExcelImporter] [194] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 09:00:00] [ExcelImporter] [194] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 09:00:00] [ExcelImporter] [194] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 09:00:00] [ExcelImporter] [194] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 09:00:00] [ExcelImporter] [194] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 09:00:00] [ExcelImporter] [194] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 09:00:00] [ExcelImporter] [194] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 09:00:00] [ExcelImporter] [194] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 09:00:00] [ExcelImporter] [194] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 09:00:00] [ExcelImporter] [194] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 09:00:00] [ExcelImporter] [194] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 09:00:00] [ExcelImporter] [194] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 09:00:00] [ExcelImporter] [194] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 09:00:00] [ExcelImporter] [194] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 09:00:00] [ExcelImporter] [194] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 09:00:00] [ExcelImporter] [194] [DEBUG] cell value = 5병동 
+main> [2014-01-23 09:00:00] [ExcelImporter] [194] [DEBUG] cell value = 5병동 
+main> [2014-01-23 09:00:00] [ExcelImporter] [194] [DEBUG] cell value = 5병동 
+main> [2014-01-23 09:00:00] [ExcelImporter] [218] [DEBUG] @@ nurse A Grp.sz = 8 
+main> [2014-01-23 09:00:00] [ExcelImporter] [219] [DEBUG] @@ nurse B Grp.sz = 7 
+main> [2014-01-23 09:00:00] [ExcelImporter] [220] [DEBUG] @@ nurseList = [com.tk.nursing.vo.NurseVO@4839e5b5, com.tk.nursing.vo.NurseVO@5117f31e, com.tk.nursing.vo.NurseVO@7b5a6029, com.tk.nursing.vo.NurseVO@6a5f6303, com.tk.nursing.vo.NurseVO@1c5d9084, com.tk.nursing.vo.NurseVO@42bad8a8, com.tk.nursing.vo.NurseVO@78e61fd1, com.tk.nursing.vo.NurseVO@4c331059, com.tk.nursing.vo.NurseVO@2c766a24, com.tk.nursing.vo.NurseVO@1232784a, com.tk.nursing.vo.NurseVO@2f774b9b, com.tk.nursing.vo.NurseVO@4104c575, com.tk.nursing.vo.NurseVO@203fa5ac, com.tk.nursing.vo.NurseVO@3295cfbe, com.tk.nursing.vo.NurseVO@979dce4, com.tk.nursing.vo.NurseVO@1f950198, com.tk.nursing.vo.NurseVO@6f9bb25a, com.tk.nursing.vo.NurseVO@56da6bf4, com.tk.nursing.vo.NurseVO@1de58cb8] 
+main> [2014-01-23 09:00:00] [ExcelImporter] [223] [DEBUG] 문현주 
+main> [2014-01-23 09:00:00] [ExcelImporter] [223] [DEBUG] 송남희 
+main> [2014-01-23 09:00:00] [ExcelImporter] [223] [DEBUG] 나옥연 
+main> [2014-01-23 09:00:00] [ExcelImporter] [223] [DEBUG] 이수진B 
+main> [2014-01-23 09:00:00] [ExcelImporter] [223] [DEBUG] 홍진수 
+main> [2014-01-23 09:00:00] [ExcelImporter] [223] [DEBUG] 박순분 
+main> [2014-01-23 09:00:00] [ExcelImporter] [223] [DEBUG] 김현정G 
+main> [2014-01-23 09:00:00] [ExcelImporter] [223] [DEBUG] 장선혜 
+main> [2014-01-23 09:00:00] [ExcelImporter] [223] [DEBUG] 박혜미 
+main> [2014-01-23 09:00:00] [ExcelImporter] [223] [DEBUG] 백류리 
+main> [2014-01-23 09:00:00] [ExcelImporter] [223] [DEBUG] 백혜정 
+main> [2014-01-23 09:00:00] [ExcelImporter] [223] [DEBUG] 최수진 
+main> [2014-01-23 09:00:00] [ExcelImporter] [223] [DEBUG] 임지영 
+main> [2014-01-23 09:00:00] [ExcelImporter] [223] [DEBUG] 최지현 
+main> [2014-01-23 09:00:00] [ExcelImporter] [223] [DEBUG] 신다은 
+main> [2014-01-23 09:00:00] [ExcelImporter] [223] [DEBUG] 윤여정 
+main> [2014-01-23 09:00:00] [ExcelImporter] [223] [DEBUG] 김은숙 
+main> [2014-01-23 09:00:00] [ExcelImporter] [223] [DEBUG] 정화숙 
+main> [2014-01-23 09:00:00] [ExcelImporter] [223] [DEBUG] 이분옥 
+main> [2014-01-23 09:00:31] [ExcelImporter] [157] [DEBUG] last row no=23 
+main> [2014-01-23 09:00:31] [ExcelImporter] [158] [DEBUG] last col no=39 
+main> [2014-01-23 09:00:31] [ExcelImporter] [182] [DEBUG] 이번달의 마지막일자 = 28 
+main> [2014-01-23 09:00:31] [ExcelImporter] [183] [DEBUG] 이번달의 휴일 = [1, 2, 8, 9, 15, 16, 22, 23] 
+main> [2014-01-23 09:00:31] [ExcelImporter] [193] [DEBUG] cell value = 5병동 
+main> [2014-01-23 09:00:31] [ExcelImporter] [193] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 09:00:31] [ExcelImporter] [193] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 09:00:31] [ExcelImporter] [193] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 09:00:31] [ExcelImporter] [193] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 09:00:31] [ExcelImporter] [193] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 09:00:31] [ExcelImporter] [193] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 09:00:31] [ExcelImporter] [193] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 09:00:31] [ExcelImporter] [193] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 09:00:31] [ExcelImporter] [193] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 09:00:31] [ExcelImporter] [193] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 09:00:31] [ExcelImporter] [193] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 09:00:31] [ExcelImporter] [193] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 09:00:31] [ExcelImporter] [193] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 09:00:31] [ExcelImporter] [193] [DEBUG] cell value = 5병동A 
+main> [2014-01-23 09:00:31] [ExcelImporter] [193] [DEBUG] cell value = 5병동B 
+main> [2014-01-23 09:00:31] [ExcelImporter] [193] [DEBUG] cell value = 5병동 
+main> [2014-01-23 09:00:31] [ExcelImporter] [193] [DEBUG] cell value = 5병동 
+main> [2014-01-23 09:00:31] [ExcelImporter] [193] [DEBUG] cell value = 5병동 
+main> [2014-01-23 09:00:31] [ExcelImporter] [217] [DEBUG] @@ nurse A Grp.sz = 8 
+main> [2014-01-23 09:00:31] [ExcelImporter] [218] [DEBUG] @@ nurse B Grp.sz = 7 
+main> [2014-01-23 09:00:31] [ExcelImporter] [219] [DEBUG] @@ nurseList = [com.tk.nursing.vo.NurseVO@39e57e8f, com.tk.nursing.vo.NurseVO@9d7fbfb, com.tk.nursing.vo.NurseVO@42e020c9, com.tk.nursing.vo.NurseVO@8888e6c, com.tk.nursing.vo.NurseVO@3d3e58d4, com.tk.nursing.vo.NurseVO@4839e5b5, com.tk.nursing.vo.NurseVO@5117f31e, com.tk.nursing.vo.NurseVO@7b5a6029, com.tk.nursing.vo.NurseVO@6a5f6303, com.tk.nursing.vo.NurseVO@1c5d9084, com.tk.nursing.vo.NurseVO@42bad8a8, com.tk.nursing.vo.NurseVO@78e61fd1, com.tk.nursing.vo.NurseVO@4c331059, com.tk.nursing.vo.NurseVO@2c766a24, com.tk.nursing.vo.NurseVO@1232784a, com.tk.nursing.vo.NurseVO@2f774b9b, com.tk.nursing.vo.NurseVO@4104c575, com.tk.nursing.vo.NurseVO@203fa5ac, com.tk.nursing.vo.NurseVO@3295cfbe] 
+main> [2014-01-23 09:00:31] [ExcelImporter] [222] [DEBUG] 문현주 
+main> [2014-01-23 09:00:31] [ExcelImporter] [222] [DEBUG] 송남희 
+main> [2014-01-23 09:00:31] [ExcelImporter] [222] [DEBUG] 나옥연 
+main> [2014-01-23 09:00:31] [ExcelImporter] [222] [DEBUG] 이수진B 
+main> [2014-01-23 09:00:31] [ExcelImporter] [222] [DEBUG] 홍진수 
+main> [2014-01-23 09:00:31] [ExcelImporter] [222] [DEBUG] 박순분 
+main> [2014-01-23 09:00:31] [ExcelImporter] [222] [DEBUG] 김현정G 
+main> [2014-01-23 09:00:31] [ExcelImporter] [222] [DEBUG] 장선혜 
+main> [2014-01-23 09:00:31] [ExcelImporter] [222] [DEBUG] 박혜미 
+main> [2014-01-23 09:00:31] [ExcelImporter] [222] [DEBUG] 백류리 
+main> [2014-01-23 09:00:31] [ExcelImporter] [222] [DEBUG] 백혜정 
+main> [2014-01-23 09:00:31] [ExcelImporter] [222] [DEBUG] 최수진 
+main> [2014-01-23 09:00:31] [ExcelImporter] [222] [DEBUG] 임지영 
+main> [2014-01-23 09:00:31] [ExcelImporter] [222] [DEBUG] 최지현 
+main> [2014-01-23 09:00:31] [ExcelImporter] [222] [DEBUG] 신다은 
+main> [2014-01-23 09:00:31] [ExcelImporter] [222] [DEBUG] 윤여정 
+main> [2014-01-23 09:00:31] [ExcelImporter] [222] [DEBUG] 김은숙 
+main> [2014-01-23 09:00:31] [ExcelImporter] [222] [DEBUG] 정화숙 
+main> [2014-01-23 09:00:31] [ExcelImporter] [222] [DEBUG] 이분옥 
